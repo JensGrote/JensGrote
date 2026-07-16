@@ -39,7 +39,7 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 - 🚨 IT Emergency Management — incident response, criticality analysis, recovery planning
 - ⚙️ DevOps — CI/CD, GitLab pipelines, Kubernetes (DBCS)
 - 🔄 Agile — Scrum, Kanban, SAFe
-- 🎓 Dozent — DHBW Lörrach und Mannheim
+- 🎓 Former Dozent — DHBW Lörrach und Mannheim
 
 ## My Stack
 
