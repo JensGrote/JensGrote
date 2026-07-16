@@ -8,21 +8,29 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 
 ## My Journey
 
-```
-1981  C64 / BASIC / 6502 Assembler
-1985  Atari ST — Intros, MIDI, GFA Basic
-1992  PC world — 8088 → 486 → Pentium, PC & Server builds
-1993  Novell NetWare 2.11, 3.x, 4.x — real cabling, real IPX
-1994  Studium Humanmedizin (bis 1998)
-1995  Windows NT, FreeBSD, OpenBSD, SuSE Linux
-1998  HTML, PHP, CSS — the web era
-1999  Studium Wirtschaftsinformatik (bis 2002)
-2002  VPN, SAN, Exchange, Sun SPARC, Fujitsu BS2000, RZ operations
-2011  Deutsche Bahn — Architecture, focus on Operations
-2016  "Everything as Code" — Docs-as-Code, AsciiDoc, Markdown
-2024  Current focus: EAM, IT Emergency Management
-2025  AI Agents, MCP Servers, Kiro, Semantic Anchors
-```
+🕹️ **1981** ![C64](https://img.shields.io/badge/-C64%20BASIC-4B4B4B?style=flat&logo=commodore&logoColor=white) ![6502 ASM](https://img.shields.io/badge/-6502%20Assembler-333333?style=flat&logoColor=white)
+
+🎵 **1985** ![Atari ST](https://img.shields.io/badge/-Atari%20ST-000000?style=flat&logo=atari&logoColor=white) ![MIDI](https://img.shields.io/badge/-MIDI-555555?style=flat&logo=midi&logoColor=white) ![GFA Basic](https://img.shields.io/badge/-GFA%20Basic-666666?style=flat&logoColor=white)
+
+🖥️ **1992** ![PC](https://img.shields.io/badge/-8088%20→%20Pentium-0078D6?style=flat&logo=intel&logoColor=white) ![Novell](https://img.shields.io/badge/-Novell%20NetWare-CC0000?style=flat&logoColor=white)
+
+🐧 **1995** ![Windows NT](https://img.shields.io/badge/-Windows%20NT-0078D6?style=flat&logo=windows&logoColor=white) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white) ![SuSE](https://img.shields.io/badge/-SuSE%20Linux-73BA25?style=flat&logo=suse&logoColor=white)
+
+🌐 **1998** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+🏥 **1994–1998** ![Medicine](https://img.shields.io/badge/-Humanmedizin-DC143C?style=flat&logoColor=white)
+
+🎓 **1999–2002** ![WI](https://img.shields.io/badge/-Wirtschaftsinformatik-2E86C1?style=flat&logoColor=white)
+
+🏢 **2002** ![Exchange](https://img.shields.io/badge/-Exchange-0078D4?style=flat&logo=microsoft-exchange&logoColor=white) ![SAN](https://img.shields.io/badge/-SAN-FF6600?style=flat&logoColor=white) ![Sun SPARC](https://img.shields.io/badge/-Sun%20SPARC-F80000?style=flat&logo=oracle&logoColor=white) ![BS2000](https://img.shields.io/badge/-Fujitsu%20BS2000-E60012?style=flat&logoColor=white)
+
+🚂 **2011** ![DB](https://img.shields.io/badge/-Deutsche%20Bahn-EC0016?style=flat&logoColor=white) ![Architecture](https://img.shields.io/badge/-Architecture%20in%20Operations-4A90D9?style=flat&logoColor=white)
+
+📝 **2016** ![AsciiDoc](https://img.shields.io/badge/-AsciiDoc-E40046?style=flat&logo=asciidoctor&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Docs as Code](https://img.shields.io/badge/-Everything%20as%20Code-2088FF?style=flat&logoColor=white)
+
+🏗️ **2024** ![EAM](https://img.shields.io/badge/-EAM-4A90D9?style=flat&logoColor=white) ![IT-Notfall](https://img.shields.io/badge/-IT%20Emergency%20Management-FF4500?style=flat&logoColor=white)
+
+🤖 **2025** ![MCP](https://img.shields.io/badge/-MCP%20Servers-6B4FBB?style=flat&logoColor=white) ![Kiro](https://img.shields.io/badge/-Kiro-00B4D8?style=flat&logoColor=white) ![Semantic Anchors](https://img.shields.io/badge/-Semantic%20Anchors-228B22?style=flat&logoColor=white)
 
 ## What I do today
 
