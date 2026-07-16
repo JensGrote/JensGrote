@@ -75,6 +75,7 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 ![EV](https://img.shields.io/badge/-EV%20Driver-00B140?style=flat&logo=volkswagen&logoColor=white)
 ![Solar](https://img.shields.io/badge/-PV%20Roof-FFD700?style=flat&logo=solar-panel&logoColor=black)
 ![Balkonsolar](https://img.shields.io/badge/-Balkonsolar-73BA25?style=flat&logoColor=white)
+![Prusa](https://img.shields.io/badge/-Prusa%20MK4S-FA6831?style=flat&logo=prusa&logoColor=white)
 
 ## WHY?
 
