@@ -67,6 +67,15 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Novell](https://img.shields.io/badge/-Novell%20NetWare-CC0000?style=flat&logoColor=white)
 
+## Beyond work
+
+![Apple](https://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
+![Smart Home](https://img.shields.io/badge/-Smart%20Home-FFA500?style=flat&logoColor=white)
+![EV](https://img.shields.io/badge/-EV%20Driver-00B140?style=flat&logo=tesla&logoColor=white)
+![Solar](https://img.shields.io/badge/-PV%20Roof-FFD700?style=flat&logo=solar-panel&logoColor=black)
+![Balkonsolar](https://img.shields.io/badge/-Balkonsolar-73BA25?style=flat&logoColor=white)
+
 ## WHY?
 
 **Carpe Diem** — leukemia survivor since 2012.
