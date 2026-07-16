@@ -26,9 +26,9 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 
 🚂 **2011** ![DB](https://img.shields.io/badge/-Deutsche%20Bahn-EC0016?style=flat&logoColor=white) ![Architecture](https://img.shields.io/badge/-Architecture%20in%20Operations-4A90D9?style=flat&logoColor=white)
 
-📝 **2016** ![AsciiDoc](https://img.shields.io/badge/-AsciiDoc-E40046?style=flat&logo=asciidoctor&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Docs as Code](https://img.shields.io/badge/-Everything%20as%20Code-2088FF?style=flat&logoColor=white)
+📝 **2016** ![AsciiDoc](https://img.shields.io/badge/-AsciiDoc-E40046?style=flat&logo=asciidoctor&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Docs as Code](https://img.shields.io/badge/-Everything%20as%20Code-2088FF?style=flat&logoColor=white) ![EAM](https://img.shields.io/badge/-EAM-4A90D9?style=flat&logoColor=white)
 
-🏗️ **2024** ![EAM](https://img.shields.io/badge/-EAM-4A90D9?style=flat&logoColor=white) ![IT-Notfall](https://img.shields.io/badge/-IT%20Emergency%20Management-FF4500?style=flat&logoColor=white)
+🚨 **2024** ![IT-Notfall](https://img.shields.io/badge/-IT%20Emergency%20Management-FF4500?style=flat&logoColor=white)
 
 🤖 **2025** ![MCP](https://img.shields.io/badge/-MCP%20Servers-6B4FBB?style=flat&logoColor=white) ![Kiro](https://img.shields.io/badge/-Kiro-00B4D8?style=flat&logoColor=white) ![Semantic Anchors](https://img.shields.io/badge/-Semantic%20Anchors-228B22?style=flat&logoColor=white)
 
