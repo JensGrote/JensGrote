@@ -93,7 +93,7 @@ Tactical Ops · Civilization (all of them) · Assassin's Creed · Horizon Zero D
 
 ### 🎲 Pen & Paper RPG since the late '80s
 
-![Rolemaster](https://img.shields.io/badge/-Rolemaster-8B4513?style=flat&logoColor=white) ![MERP](https://img.shields.io/badge/-Middle%20Earth%20Roleplaying-2E8B57?style=flat&logoColor=white) ![Midgard](https://img.shields.io/badge/-Midgard-4682B4?style=flat&logoColor=white) ![Paranoia](https://img.shields.io/badge/-Paranoia-FF0000?style=flat&logoColor=white) ![Star Wars](https://img.shields.io/badge/-Star%20Wars-FFE81F?style=flat&logoColor=black) ![Cyberpunk](https://img.shields.io/badge/-Cyberpunk-FCE300?style=flat&logoColor=black) ![Shadowrun](https://img.shields.io/badge/-Shadowrun-7B2D8B?style=flat&logoColor=white)
+![Rolemaster](https://img.shields.io/badge/-Rolemaster-8B4513?style=flat&logoColor=white) ![MERP](https://img.shields.io/badge/-Middle%20Earth%20Roleplaying-2E8B57?style=flat&logoColor=white) ![Midgard](https://img.shields.io/badge/-Midgard-4682B4?style=flat&logoColor=white) ![Paranoia](https://img.shields.io/badge/-Paranoia-FF0000?style=flat&logoColor=white) ![Star Wars](https://img.shields.io/badge/Star%20Wars-000000?style=flat&logo=starwars&logoColor=FFE81F) ![Cyberpunk](https://img.shields.io/badge/-Cyberpunk-FCE300?style=flat&logoColor=black) ![Shadowrun](https://img.shields.io/badge/-Shadowrun-7B2D8B?style=flat&logoColor=white)
 
 AD&D → D&D 3.5 → ![D&D](https://img.shields.io/badge/-D%26D%202024-CC0000?style=flat&logoColor=white) today
 
