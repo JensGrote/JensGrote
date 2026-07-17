@@ -95,7 +95,15 @@ Tactical Ops · Civilization (all of them) · Assassin's Creed · Horizon Zero D
 
 Rolemaster · MERP · Midgard · Paranoia · Star Wars · Cyberpunk · Shadowrun
 
-AD&D → D&D 3.5 → ![D&D](https://img.shields.io/badge/-D%26D%205e-CC0000?style=flat&logoColor=white) today
+AD&D → D&D 3.5 → ![D&D](https://img.shields.io/badge/-D%26D%203.5-CC0000?style=flat&logoColor=white) today
+
+### 📚 Fantasy Book Addict
+
+LotR · Wheel of Time · Dragonlance · Eberron
+
+Lived and cried with Drizzt and Elminster
+
+Today: Glenn Stewart's *Magicians* · Ilona Andrews' *Kate & Curran*
 
 ## WHY?
 
