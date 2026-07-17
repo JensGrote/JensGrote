@@ -77,6 +77,16 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 ![Balkonsolar](https://img.shields.io/badge/-Balkonsolar-73BA25?style=flat&logoColor=white)
 ![Prusa](https://img.shields.io/badge/-Prusa%20MK4S-FA6831?style=flat&logo=prusa&logoColor=white)
 
+### 🎮 Gamer since 1981
+
+![C64](https://img.shields.io/badge/-C64-4B4B4B?style=flat&logo=commodore&logoColor=white) ![Amiga](https://img.shields.io/badge/-Amiga-000000?style=flat&logo=commodore&logoColor=white) ![Atari ST](https://img.shields.io/badge/-Atari%20ST-000000?style=flat&logo=atari&logoColor=white)
+
+Bard's Tale · Ultima · Maniac Mansion · DOTT · Dune · C&C · Ultima Online
+
+![Half-Life](https://img.shields.io/badge/-Half--Life-F79A10?style=flat&logo=valve&logoColor=white) ![Counter-Strike](https://img.shields.io/badge/-Counter--Strike-000000?style=flat&logo=counter-strike&logoColor=white) ![Unreal](https://img.shields.io/badge/-Unreal%20Tournament-313131?style=flat&logo=unreal-engine&logoColor=white) ![Quake](https://img.shields.io/badge/-Quake%203-333333?style=flat&logoColor=white) ![Crysis](https://img.shields.io/badge/-Crysis-FFCC00?style=flat&logoColor=black) ![Far Cry](https://img.shields.io/badge/-Far%20Cry-FF4500?style=flat&logoColor=white)
+
+Tactical Ops · Civilization (all of them) · Assassin's Creed · Horizon Zero Dawn
+
 ## WHY?
 
 **Carpe Diem** — leukemia survivor since 2012.
