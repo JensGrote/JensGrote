@@ -14,6 +14,8 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 
 🖥️ **1992** ![PC](https://img.shields.io/badge/-8088%20→%20Pentium-0078D6?style=flat&logo=intel&logoColor=white) ![Novell](https://img.shields.io/badge/-Novell%20NetWare-CC0000?style=flat&logoColor=white)
 
+💬 **1994** ![IRC](https://img.shields.io/badge/-IRC-4B0082?style=flat&logoColor=white) ![EFnet](https://img.shields.io/badge/-EFnet-222222?style=flat&logoColor=white) ![IRCnet](https://img.shields.io/badge/-IRCnet-444444?style=flat&logoColor=white) ![screen+irc](https://img.shields.io/badge/-screen%20%2B%20irc-333333?style=flat&logoColor=white) ![HP-UX](https://img.shields.io/badge/-HP--UX-0096D6?style=flat&logoColor=white) ![#germany](https://img.shields.io/badge/-%23germany-666666?style=flat&logoColor=white) ![#ccc.de](https://img.shields.io/badge/-%23ccc.de-333333?style=flat&logoColor=white)
+
 🐧 **1995** ![Windows NT](https://img.shields.io/badge/-Windows%20NT-0078D6?style=flat&logo=windows&logoColor=white) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white) ![SuSE](https://img.shields.io/badge/-SuSE%20Linux-73BA25?style=flat&logo=suse&logoColor=white)
 
 🌐 **1998** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
