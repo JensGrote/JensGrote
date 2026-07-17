@@ -87,6 +87,16 @@ Bard's Tale · Ultima · Maniac Mansion · DOTT · Dune · C&C · Ultima Online
 
 Tactical Ops · Civilization (all of them) · Assassin's Creed · Horizon Zero Dawn
 
+![StarCraft](https://img.shields.io/badge/-StarCraft%20(Zerg)-1E3A5F?style=flat&logo=battle.net&logoColor=white) ![StarCraft 2](https://img.shields.io/badge/-StarCraft%202-00AEFF?style=flat&logo=battle.net&logoColor=white) ![Diablo](https://img.shields.io/badge/-Diablo%20I--IV-8B0000?style=flat&logo=battle.net&logoColor=white) ![HoMM](https://img.shields.io/badge/-Heroes%20of%20Might%20%26%20Magic-4169E1?style=flat&logoColor=white)
+
+![LoL](https://img.shields.io/badge/-League%20of%20Legends-C89B3C?style=flat&logo=riot-games&logoColor=white) ![PoE](https://img.shields.io/badge/-Path%20of%20Exile-B8860B?style=flat&logoColor=white)
+
+### 🎲 Pen & Paper RPG since the late '80s
+
+Rolemaster · MERP · Midgard · Paranoia · Star Wars · Cyberpunk · Shadowrun
+
+AD&D → D&D 3.5 → ![D&D](https://img.shields.io/badge/-D%26D%205e-CC0000?style=flat&logoColor=white) today
+
 ## WHY?
 
 **Carpe Diem** — leukemia survivor since 2012.
