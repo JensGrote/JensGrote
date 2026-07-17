@@ -30,7 +30,7 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 
 🚨 **2024** ![IT-Notfall](https://img.shields.io/badge/-IT%20Emergency%20Management-FF4500?style=flat&logoColor=white)
 
-🤖 **2025** ![MCP](https://img.shields.io/badge/-MCP%20Servers-6B4FBB?style=flat&logoColor=white) ![Kiro](https://img.shields.io/badge/-Kiro-00B4D8?style=flat&logoColor=white) ![Semantic Anchors](https://img.shields.io/badge/-Semantic%20Anchors-228B22?style=flat&logoColor=white)
+🤖 **2025** ![MCP](https://img.shields.io/badge/-MCP%20Servers-6B4FBB?style=flat&logoColor=white) ![Kiro](https://img.shields.io/badge/-Kiro-00B4D8?style=flat&logoColor=white) ![Semantic Anchors](https://img.shields.io/badge/-Semantic%20Anchors-228B22?style=flat&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude%20Code-CC785C?style=flat&logo=anthropic&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github-copilot&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white)
 
 ## What I do today
 
@@ -57,12 +57,6 @@ Enterprise Architect, DevOps Engineer, and AI Agent Builder at [![DB Systel](htt
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ![arc42](https://img.shields.io/badge/-arc42-4A90D9?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-6B4FBB?style=flat&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude%20Code-CC785C?style=flat&logo=anthropic&logoColor=white)
-![Kiro](https://img.shields.io/badge/-Kiro-00B4D8?style=flat&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white)
 
 ### The roots 🕹️
 
